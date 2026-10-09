@@ -1,0 +1,18 @@
+# ===== 本机用 Visual Studio 打开的工程文件（不想提交给老师，故忽略）=====
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+
+# ===== 编译产生的中间文件 / 目录 =====
+.vs/
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.res
